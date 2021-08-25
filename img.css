@@ -1,0 +1,15 @@
+.img1 {
+    width: 40%;
+    position: absolute;
+    left: -22%;
+    object-fit: cover;
+    object-position: 15px 10px; /* try 20% 10% */ 
+}
+
+.img2 {
+    width: 25%;
+    position: absolute;
+    right: 0%;
+    object-fit: cover;
+    object-position: 100px 30px;
+}
